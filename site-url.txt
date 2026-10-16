@@ -1,1 +1,1 @@
-yoswin-production.up.railway.app
+https://yoswin-production.up.railway.app
